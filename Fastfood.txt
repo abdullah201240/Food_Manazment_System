@@ -1,0 +1,11 @@
+  1. Burger               40/- 
+  2. Noodles              60/-
+  3. Sandwich             45/-
+  4. Beverages            35/-
+  5. Fried Rice           150/-  
+  6. Pasta                80/-   
+  7. French Fry           45/-     
+  8. Smoked Sandwitch     100/-   
+  9. Coffee               35/-
+ 10. Drinks              25/- 
+ 
